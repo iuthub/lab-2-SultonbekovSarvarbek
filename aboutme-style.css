@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+.img_wrapper{
+    display: flex;
+    
+}
+.img_wrapper img{
+    width: 300px;
+    height: auto;
+}
+h1{
+
+    text-align: left;
+    color:blue;
+}
+p{
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+b{
+    color:red;
+}
